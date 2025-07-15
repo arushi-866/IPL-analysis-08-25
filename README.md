@@ -18,7 +18,4 @@ Welcome to the **IPL Analytics Dashboard** project! This repository contains an 
 - Includes **dynamic visuals** and slicers for seamless user interaction
 
 
----
-
-## 📂 Folder Structure
 
